@@ -1,0 +1,1 @@
+A project for traffic navigation. It provides a route between two points. Before each action, the next action, time to it, and distance are announced, as well as the total distance and time to the end of the trip.
